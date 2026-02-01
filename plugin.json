@@ -1,0 +1,23 @@
+{
+  "name": "F系列工具箱-Book",
+  "author": "MJ",
+  "url": "",
+  "version": "1.0.0",
+  "minAppVersion": "2.10.0",
+  "script": "index.js",
+  "description": {
+    "default": "Link metadata extraction tool for Orca Note",
+    "zh_CN": "从网页中提取元数据，支持规则匹配和自定义提取脚本"
+  },
+  "displayName": {
+    "default": "F Series Toolbox - Book",
+    "zh_CN": "F系列工具箱-Book"
+  },
+  "readme": "README.md",
+  "icon": "icon.png",
+  "backends": [],
+  "i18n": [
+    "zh_CN",
+    "en_US"
+  ]
+}
